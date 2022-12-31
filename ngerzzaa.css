@@ -1,0 +1,275 @@
+<style type='text/css'>
+
+.owl-wrapper .owl-item:nth-child(1) .bank .online {
+width: 145px !important;
+  height: 94px !important;
+background: url('https://iili.io/QEba6B.gif') 0px 0px no-repeat !important;
+}
+
+.owl-wrapper .owl-item:nth-child(2) .bank .online {
+width: 145px !important;
+  height: 94px !important;
+background: url('https://iili.io/QEbMua.gif') 0px 0px no-repeat !important;
+}
+
+.owl-wrapper .owl-item:nth-child(3) .bank .online {
+width: 145px !important;
+  height: 94px !important;
+background: url('https://iili.io/QEbjGp.gif') 0px 0px no-repeat !important;
+}
+
+.owl-wrapper .owl-item:nth-child(4) .bank .online {
+width: 145px !important;
+  height: 94px !important;
+background: url('https://iili.io/QGHR14.gif') 0px 0px no-repeat !important;
+}
+
+.owl-wrapper .owl-item:nth-child(5) .bank .online {
+width: 145px !important;
+  height: 94px !important;
+background: url('https://iili.io/QGHIXs.gif') 0px 0px no-repeat !important;
+}
+
+.owl-wrapper .owl-item:nth-child(6) .bank .online {
+width: 145px !important;
+  height: 94px !important;
+background: url('https://iili.io/QGHa7S.gif') 0px 0px no-repeat !important;
+}
+
+.owl-wrapper .owl-item:nth-child(7) .bank .online {
+width: 145px !important;
+  height: 94px !important;
+background: url('https://iili.io/HTPIy12.gif') 0px 0px no-repeat !important;
+}
+
+.owl-wrapper .owl-item:nth-child(8) .bank .online {
+width: 145px !important;
+  height: 94px !important;
+background: url('https://iili.io/QGd2lR.gif') 0px 0px no-repeat !important;
+}
+
+.owl-wrapper .owl-item:nth-child(9) .bank .online {
+width: 145px !important;
+  height: 94px !important;
+background: url('https://iili.io/QGd9Va.gif') 0px 0px no-repeat !important;
+}
+
+.owl-wrapper .owl-item:nth-child(10) .bank .online{
+width: 145px !important;
+  height: 94px !important;
+background: url('https://iili.io/QGdfRI.gif') 0px 0px no-repeat !important;
+}
+
+.owl-wrapper .owl-item:nth-child(11) .bank .online{
+width: 145px !important;
+  height: 94px !important;
+background: url('https://iili.io/QGFNz7.gif') 0px 0px no-repeat !important;
+}
+
+.owl-wrapper .owl-item:nth-child(12) .bank .online{
+width: 145px !important;
+  height: 94px !important;
+background: url('https://iili.io/QGFOX9.gif') 0px 0px no-repeat !important;
+}
+
+.owl-wrapper .owl-item:nth-child(13) .bank .online{
+width: 145px !important;
+  height: 94px !important;
+background: url('https://iili.io/QGF80b.gif') 0px 0px no-repeat !important;
+}
+
+.owl-wrapper .owl-item:nth-child(14) .bank .online{
+width: 145px !important;
+  height: 94px !important;
+background: url('https://iili.io/QGKckQ.gif') 0px 0px no-repeat !important;
+}
+
+.owl-wrapper .owl-item:nth-child(1) .bank .offline{
+width: 145px !important;
+  height: 94px !important;
+background: url('https://iili.io/QEbl3P.gif') 0px 0px no-repeat !important;
+}
+
+.owl-wrapper .owl-item:nth-child(2) .bank .offline{
+width: 145px !important;
+  height: 94px !important;
+background: url('https://iili.io/QEbEyg.gif') 0px 0px no-repeat !important;
+}
+
+.owl-wrapper .owl-item:nth-child(3) .bank .offline{
+width: 145px !important;
+  height: 94px !important;
+background: url('https://iili.io/QEbhnR.gif') 0px 0px no-repeat !important;
+}
+
+.owl-wrapper .owl-item:nth-child(4) .bank .offline {
+width: 145px !important;
+  height: 94px !important;
+background: url('https://iili.io/QGHlp9.gif') 0px 0px no-repeat !important;
+}
+
+.owl-wrapper .owl-item:nth-child(5) .bank .offline {
+width: 145px !important;
+  height: 94px !important;
+background: url('https://iili.io/QGHABf.gif') 0px 0px no-repeat !important;
+}
+
+.owl-wrapper .owl-item:nth-child(6) .bank .offline{
+width: 145px !important;
+  height: 94px !important;
+background: url('https://iili.io/QGHY22.gif') 0px 0px no-repeat !important;
+}
+
+.owl-wrapper .owl-item:nth-child(7) .bank .offline{
+width: 145px !important;
+  height: 94px !important;
+background: url('https://iili.io/HTPud4p.gif') 0px 0px no-repeat !important;
+}
+
+.owl-wrapper .owl-item:nth-child(8) .bank .offline {
+width: 145px !important;
+  height: 94px !important;
+background: url('https://iili.io/QGdBDX.gif') 0px 0px no-repeat !important;
+}
+
+.owl-wrapper .owl-item:nth-child(9) .bank .offline {
+width: 145px !important;
+  height: 94px !important;
+background: url('https://iili.io/QGdHiJ.gif') 0px 0px no-repeat !important;
+}
+
+.owl-wrapper .owl-item:nth-child(10) .bank .offline{
+width: 145px !important;
+  height: 94px !important;
+background: url('https://iili.io/QGdKHN.gif') 0px 0px no-repeat !important;
+}
+
+.owl-wrapper .owl-item:nth-child(11) .bank .offline{
+width: 145px !important;
+  height: 94px !important;
+background: url('https://iili.io/QGFjbS.gif') 0px 0px no-repeat !important;
+}
+
+.owl-wrapper .owl-item:nth-child(12) .bank .offline{
+width: 145px !important;
+  height: 94px !important;
+background: url('https://iili.io/QGFX5l.gif') 0px 0px no-repeat !important;
+}
+
+.owl-wrapper .owl-item:nth-child(13) .bank .offline{
+width: 145px !important;
+  height: 94px !important;
+background: url('https://iili.io/QGFvqu.gif') 0px 0px no-repeat !important;
+}
+
+.owl-wrapper .owl-item:nth-child(14) .bank .offline{
+width: 145px !important;
+  height: 94px !important;
+background: url('https://iili.io/QGKlpV.gif') 0px 0px no-repeat !important;
+}
+.owl-wrapper .owl-item:nth-child(1) .bank .trouble {
+width: 145px !important;
+  height: 94px !important;
+background: url('https://iili.io/QEb0a1.gif') 0px 0px no-repeat !important;
+}
+
+.owl-wrapper .owl-item:nth-child(2) .bank .trouble {
+width: 145px !important;
+  height: 94px !important;
+background: url('https://iili.io/QEbVwJ.gif') 0px 0px no-repeat !important;
+}
+
+.owl-wrapper .owl-item:nth-child(3) .bank .trouble {
+width: 145px !important;
+  height: 94px !important;
+background: url('https://iili.io/QEb18F.gif') 0px 0px no-repeat !important;
+}
+
+.owl-wrapper .owl-item:nth-child(4) .bank .trouble {
+width: 145px !important;
+  height: 94px !important;
+background: url('https://iili.io/QGHTLG.gif') 0px 0px no-repeat !important;
+}
+
+.owl-wrapper .owl-item:nth-child(5) .bank .trouble {
+width: 145px !important;
+  height: 94px !important;
+background: url('https://iili.io/QGH5rl.gif') 0px 0px no-repeat !important;
+}
+
+.owl-wrapper .owl-item:nth-child(6) .bank .trouble {
+width: 145px !important;
+  height: 94px !important;
+background: url('https://iili.io/QGHck7.gif') 0px 0px no-repeat !important;
+}
+
+
+.owl-wrapper .owl-item:nth-child(7) .bank .trouble {
+width: 145px !important;
+  height: 94px !important;
+background: url('https://iili.io/HTPIpql.gif') 0px 0px no-repeat !important;
+}
+
+.owl-wrapper .owl-item:nth-child(8) .bank .trouble {
+width: 145px !important;
+  height: 94px !important;
+background: url('https://iili.io/QGddKv.gif') 0px 0px no-repeat !important;
+}
+
+.owl-wrapper .owl-item:nth-child(9) .bank .trouble {
+width: 145px !important;
+  height: 94px !important;
+background: url('https://iili.io/QGd3Sp.gif') 0px 0px no-repeat !important;
+}
+
+.owl-wrapper .owl-item:nth-child(10) .bank .trouble {
+width: 145px !important;
+  height: 94px !important;
+background: url('https://iili.io/QGdqNt.gif') 0px 0px no-repeat !important;
+}
+
+
+.owl-wrapper .owl-item:nth-child(11) .bank .trouble {
+width: 145px !important;
+  height: 94px !important;
+background: url('https://iili.io/QGFhe2.gif') 0px 0px no-repeat !important;
+}
+
+
+.owl-wrapper .owl-item:nth-child(12) .bank .trouble {
+width: 145px !important;
+  height: 94px !important;
+background: url('https://iili.io/QGFese.gif') 0px 0px no-repeat !important;
+}
+
+
+.owl-wrapper .owl-item:nth-child(13) .bank .trouble {
+width: 145px !important;
+  height: 94px !important;
+background: url('https://iili.io/QGFSgj.gif') 0px 0px no-repeat !important;
+}
+
+
+.owl-wrapper .owl-item:nth-child(14) .bank .trouble {
+width: 145px !important;
+  height: 94px !important;
+background: url('https://iili.io/QGK1TB.gif') 0px 0px no-repeat !important;
+}
+
+.bank {
+    text-align: center;
+    width: 145px;
+    height: 74px;
+    padding: 0px !important;
+    background-color: rgba(0,0,0,0);
+    border: none !important;
+    -webkit-border-radius: 0px !important;
+    -moz-border-radius: 0px !important;
+    -ms-border-radius: 0px !important;
+    -o-border-radius: 0px !important;
+    border-radius: 0px !important;
+    margin-left: 0px;
+    margin-top: 60px !important;
+}
+
+</style>
