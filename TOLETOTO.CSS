@@ -1,0 +1,59 @@
+<style>
+
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(1) { content: url("https://i.postimg.cc/Cx2ywsD3/siam-pools.jpg") !important; }/*SIAM*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(2) { content: url("https://i.postimg.cc/SQfwnhC7/sydney-pools.jpg") !important; }/*SYDNEY*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(3) { content: url("https://i.postimg.cc/0yb3XK3c/bullseye.jpg") !important; }/*BULLSEYE*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(4) { content: url("https://i.postimg.cc/8k401bgZ/khmer-pools.jpg") !important; }/*KHMER*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(5) { content: url("https://i.postimg.cc/sXyTzM6F/cambodia.jpg") !important; }/*CAMBODIA*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(6) { content: url("https://i.postimg.cc/rsZj5Q8c/california.jpg") !important; }/*CALIFORNIA*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(7) { content: url("https://i.postimg.cc/P5wy8W0s/israel.jpg") !important; }/*ISRAEL*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(8) { content: url("https://i.postimg.cc/J0sZCmLV/taiwan.jpg") !important; }/*TAIWAN*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(9) { content: url("https://i.postimg.cc/KYQMK4ch/kentucky-eve.jpg") !important; }/*KENTUCKYEVE*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(10) { content: url("https://i.postimg.cc/N0Nk3dHX/kentucky-mid.jpg") !important; }/*KENTUCKYMID*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(11) { content: url("https://i.postimg.cc/0QFdQrZ2/nevada-pools.jpg") !important; }/*NEVADA*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(12) { content: url("https://i.postimg.cc/ZKkxzBCw/pcso-pools.jpg") !important; }/*PCSO*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(13) { content: url("https://i.postimg.cc/2S0WyVSR/oregon-pools.jpg") !important; }/*OREGON*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(14) { content: url("https://i.postimg.cc/L4qF071z/saigon-pools.jpg") !important; }/*SAIGON*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(15) { content: url("https://i.postimg.cc/T1Qd05ST/hongkong-pools.jpg") !important; }/*HONGKONG*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(16) { content: url("https://i.postimg.cc/HnMKWqwR/canadia-pools.jpg") !important; }/*CANADIA*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(17) { content: url("https://i.postimg.cc/9QLx2X3z/japan-pools.jpg") !important; }/*JAPAN*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(18) { content: url("https://i.postimg.cc/28wGdjST/singapore-pools.jpg") !important; }/*SINGAPORE*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(19) { content: url("https://i.postimg.cc/tRdNyRWy/china-pools.jpg") !important; }/*CHINA*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(20) { content: url("https://i.postimg.cc/k4mRh8jS/carolina-day.jpg") !important; }/*CAROLINADAY*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(21) { content: url("https://i.postimg.cc/mZdh70GC/carolina-eve.jpg") !important; }/*CAROLINAEVE*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(22) { content: url("https://i.postimg.cc/gJzkZKSg/newyork-eve.jpg") !important; }/*NEWYORKEVE*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(23) { content: url("https://i.postimg.cc/d3DsWVKd/newyork-mid.jpg") !important; }/*NEWYORKMID*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(24) { content: url("https://i.postimg.cc/h43PXT90/indiana-eve.jpg") !important; }/*INDIANAEVE*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(25) { content: url("https://i.postimg.cc/k4H3gNk6/indiana-mid.jpg") !important; }/*INDIANAMID*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(26) { content: url("https://i.postimg.cc/sXT6jVGT/newjersey-eve.jpg") !important; }/*NEWJERSEYEVE*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(27) { content: url("https://i.postimg.cc/kXgVR76x/newjersey-mid.jpg") !important; }/*NEWJERSEYMID*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(28) { content: url("https://i.postimg.cc/jqmVPXCZ/florida-eve.jpg") !important; }/*FLORIDAEVE*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(29) { content: url("https://i.postimg.cc/FR66brF7/florida-mid.jpg") !important; }/*FLORIDAMID*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(30) { content: url("https://i.postimg.cc/R0pm8zVz/sydney-night.jpg") !important; }/*SYDNEYNIGHT*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(31) { content: url("https://i.postimg.cc/PryRKQ5g/totomacau.jpg") !important; }/*TOTOMACAU*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(32) { content: url("https://i.postimg.cc/L5TNCm2t/virginia-day.jpg") !important; }/*VIRGINIADAY*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(33) { content: url("https://i.postimg.cc/zXGjDZqQ/virginia-night.jpg") !important; }/*VIRGINIANGT*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(34) { content: url("https://i.postimg.cc/6pRGtY4S/missouri-eve.jpg") !important; }/*MISSOURIEVE*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(35) { content: url("https://i.postimg.cc/1RnFvm5s/missouri-mid.jpg") !important; }/*MISSOURIMID*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(36) { content: url("https://i.postimg.cc/NfvKbRzk/morroco.jpg") !important; }/*MOROCCOQUATRO*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(37) { content: url("https://i.postimg.cc/sgDD0m97/north-korea.jpg") !important; }/*NORTHKOREA*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(38) { content: url("https://i.postimg.cc/1zVSLjgn/texas-day.jpg") !important; }/*TEXASDAY*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(39) { content: url("https://i.postimg.cc/KjfhPXWV/texas-eve.jpg") !important; }/*TEXASEVE*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(40) { content: url("https://i.postimg.cc/Bnk9cBhq/texas-mor.jpg") !important; }/*TEXASMOR*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(41) { content: url("https://i.postimg.cc/Y235yHXD/texas-night.jpg") !important; }/*TEXASNIGHT*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(42) { content: url("https://i.postimg.cc/8zYJQsYm/roulette.jpg") !important; }/*ROULETTE*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(43) { content: url("https://i.postimg.cc/3wpws1m3/monopoly.jpg") !important; }/*MONOPOLY*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(44) { content: url("https://i.postimg.cc/K8PVCgjd/head-tail.jpg") !important; }/*HEADTAIL*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(45) { content: url("https://i.postimg.cc/MTFr173j/dragon-tiger.jpg") !important; }/*DRAGONTIGER*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(46) { content: url("https://i.postimg.cc/kgC9VCbP/baccarat.jpg") !important; }/*BACCARAT*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(47) { content: url("https://i.postimg.cc/vZGFYvJQ/24d-games.jpg") !important; }/*24DGAMES*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(48) { content: url("https://i.postimg.cc/q7n8z14D/habanero.jpg") !important; }/*HABANERO*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(49) { content: url("https://i.postimg.cc/9Qsdm65q/idn-slot-games.jpg") !important; }/*IDNSLOT*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(50) { content: url("https://i.postimg.cc/nhXKtH5J/microgaming.jpg") !important; }/*MICROGAMING*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(51) { content: url("https://i.postimg.cc/Pr3bcLSy/pg-soft.jpg") !important; }/*PGSOFT*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(52) { content: url("https://i.postimg.cc/Tw6nmnPd/pragmatic.jpg") !important; }/*PRAGMATIC*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(53) { content: url("https://i.postimg.cc/vHHL37tD/top-trend-gaming.jpg") !important; }/*TOPTREND*/
+
+</style>
