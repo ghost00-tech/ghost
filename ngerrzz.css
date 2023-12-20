@@ -5,22 +5,22 @@
   left: 12px;
 }
 
-.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(1) { content: url("https://i.postimg.cc/FzF9WnWQ/SIAM-POOLS.png") !important;}/*SIAM*/
-.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(2) { content: url("https://i.postimg.cc/Gpkdc16C/SYDNEY-POOLS.png") !important;}/*SYDNEY*/
-.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(3) { content: url("https://i.postimg.cc/Znm9Tcwf/BULLSEYE-POOLS.png") !important;}/*BULLSEYE*/
-.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(4) { content: url("https://i.postimg.cc/d3SKWQZ8/KHMER-POOLS.png") !important; }/*KHMER*/
-.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(5) { content: url("https://i.postimg.cc/J4G8sXSK/CAMBODIA-POOLS.png") !important; }/*CAMBODIA*/
-.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(6) { content: url("https://i.postimg.cc/Gtj49yNb/CALIFORNIA-POOLS.png") !important; }/*CALIFORNIA*/
-.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(7) { content: url("https://i.postimg.cc/pdtMc6r1/ISRAEL-POOLS.png") !important; }/*ISRAEL*/
-.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(8) { content: url("https://i.postimg.cc/prrwnNcy/TAIWAN-POOLS.png") !important; }/*TAIWAN*/
-.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(9) { content: url("https://i.postimg.cc/j21GH8Bc/KENTUCKY-POOLS.png") !important; }/*KENTUCKY*/
-.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(10) { content: url("https://i.postimg.cc/PrpGXj8R/SINGAPORE-POOLS.png") !important; }/*SINGAPORE*/
-.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(11) { content: url("https://i.postimg.cc/wBkZfxS7/NEVADA-POOLS.png") !important; }/*NEVADA*/
-.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(12) { content: url("https://i.postimg.cc/rmFbvXkg/PCSO-POOLS.png") !important; }/*PCSO*/
-.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(13) { content: url("https://i.postimg.cc/qRbYrbBr/OREGON-POOLS.png") !important; }/*OREGON*/
-.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(14) { content: url("https://i.postimg.cc/mZnq656N/SAIGON-POOLS.png") !important; }/*SAIGON*/
-.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(15) { content: url("https://i.postimg.cc/8zQYTrG7/HONGKONG-POOLS.png") !important; }/*HONGKONG*/
-.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(16) { content: url("https://i.postimg.cc/YC6s0q2b/CANADIA-POOLS.png") !important; }/*CANADIA*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(1) { content: url("https://i.ibb.co/zfqKdTr/siam.jpg") !important;}/*SIAM*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(2) { content: url("https://i.ibb.co/N1bkqD8/sydney.jpg") !important;}/*SYDNEY*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(3) { content: url("https://i.ibb.co/4ZCR1k6/bullseye.jpg") !important;}/*BULLSEYE*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(4) { content: url("https://i.ibb.co/n7dks27/khmer.jpg") !important; }/*KHMER*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(5) { content: url("https://i.ibb.co/mh31H6N/cambodia.jpg") !important; }/*CAMBODIA*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(6) { content: url("https://i.ibb.co/KGksksk/california.jpg") !important; }/*CALIFORNIA*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(7) { content: url("https://i.ibb.co/GCKYGqR/israel.jpg") !important; }/*ISRAEL*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(8) { content: url("https://i.ibb.co/g4NyPwN/taiwan.jpg") !important; }/*TAIWAN*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(9) { content: url("https://i.ibb.co/Hq0cTQJ/kentucky.jpg") !important; }/*KENTUCKY*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(10) { content: url("https://i.ibb.co/hdHpy5K/singapore.jpg") !important; }/*SINGAPORE*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(11) { content: url("https://i.ibb.co/Jtf6cdF/nevada.jpg") !important; }/*NEVADA*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(12) { content: url("https://i.ibb.co/Wsb1bnk/pcso.jpg") !important; }/*PCSO*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(13) { content: url("https://i.ibb.co/Zc9X3H0/oregon.jpg") !important; }/*OREGON*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(14) { content: url("https://i.ibb.co/St4vfK6/saigon.jpg") !important; }/*SAIGON*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(15) { content: url("https://i.ibb.co/wgShQS4/hongkong.jpg") !important; }/*HONGKONG*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(16) { content: url("https://i.ibb.co/DRGtQLV/canadian-4d.jpg") !important; }/*CANADIA*/
 .gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(17) { content: url("https://i.postimg.cc/N0QPHq5Y/JAPAN-POOLS.png") !important; }/*JAPAN*/
 .gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(18) { content: url("https://i.postimg.cc/D04CT7YQ/CAROLINA-POOLS.png") !important; }/*CAROLINA*/
 .gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(19) { content: url("https://i.postimg.cc/26kQGCDj/CHINA-POOLS.png") !important; }/*CHINA*/
