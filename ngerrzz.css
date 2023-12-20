@@ -1,4 +1,4 @@
-<style>
+ <style>
 
 .col-md-9 {
   margin-top: -37px;
@@ -21,22 +21,22 @@
 .gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(14) { content: url("https://i.ibb.co/St4vfK6/saigon.jpg") !important; }/*SAIGON*/
 .gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(15) { content: url("https://i.ibb.co/wgShQS4/hongkong.jpg") !important; }/*HONGKONG*/
 .gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(16) { content: url("https://i.ibb.co/DRGtQLV/canadian-4d.jpg") !important; }/*CANADIA*/
-.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(17) { content: url("https://i.postimg.cc/N0QPHq5Y/JAPAN-POOLS.png") !important; }/*JAPAN*/
-.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(18) { content: url("https://i.postimg.cc/D04CT7YQ/CAROLINA-POOLS.png") !important; }/*CAROLINA*/
-.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(19) { content: url("https://i.postimg.cc/26kQGCDj/CHINA-POOLS.png") !important; }/*CHINA*/
-.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(20) { content: url("https://i.postimg.cc/15kDTGQj/SYDNEYNIGHT-POOLS.png") !important; }/*SYDNEYNIGHT*/
-.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(21) { content: url("https://i.postimg.cc/6Q0RyFGk/TOTOMACAU-POOLS.png") !important; }/*TOTOMACAU*/
-.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(22) { content: url("https://i.postimg.cc/pr9ncT1v/NEWYORK-POOLS.png") !important; }/*NEWYORK*/
-.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(23) { content: url("https://i.postimg.cc/8CncBkDX/FLORIDA.png") !important; }/*FLORIDA*/
-.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(24) { content: url("https://i.postimg.cc/02qQCBRv/INDIANA.png") !important; }/*INDIANA*/
-.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(25) { content: url("https://i.postimg.cc/zXSf2F8g/magnum-4d.png") !important; }/*MAGNUM4D*/
-.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(26) { content: url("https://i.postimg.cc/VkKkmsSs/new-jersey.png") !important; }/*NEWJERSEY*/
-.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(27) { content: url("https://i.postimg.cc/1tqmGpv4/virginia.png") !important; }/*VIRGINIA*/
-.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(28) { content: url("https://i.postimg.cc/MG9xbpQN/MISSOURI-EVE.png") !important; }/*MISSOURIEVE*/
-.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(29) { content: url("https://i.postimg.cc/K8rmjNvZ/MISSOURI-MID.png") !important; }/*MISSOURIMID*/
-.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(30) { content: url("https://i.postimg.cc/bvyptts1/MOROCCO.png") !important; }/*MOROCCO*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(17) { content: url("https://i.ibb.co/5123jDD/japan.jpg") !important; }/*JAPAN*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(18) { content: url("https://i.ibb.co/G7qyLS5/carolina.jpg") !important; }/*CAROLINA*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(19) { content: url("https://i.ibb.co/xCThTPb/china.jpg") !important; }/*CHINA*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(20) { content: url("https://i.ibb.co/zr11TtT/sydneynight.jpg") !important; }/*SYDNEYNIGHT*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(21) { content: url("https://i.ibb.co/rHTrz17/totomacau.jpg") !important; }/*TOTOMACAU*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(22) { content: url("https://i.ibb.co/W0rmsRw/newyork.jpg") !important; }/*NEWYORK*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(23) { content: url("https://i.ibb.co/bryjGrm/florida.jpg") !important; }/*FLORIDA*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(24) { content: url("https://i.ibb.co/P6bS384/indiana.jpg") !important; }/*INDIANA*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(25) { content: url("https://i.ibb.co/kJbBb0n/magnum4d.jpg") !important; }/*MAGNUM4D*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(26) { content: url("https://i.ibb.co/X7ncpZk/newjersey.jpg") !important; }/*NEWJERSEY*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(27) { content: url("https://i.ibb.co/ZYmRNgM/virginia.jpg") !important; }/*VIRGINIA*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(28) { content: url("https://i.ibb.co/ysMc1xm/missouri.jpg") !important; }/*MISSOURI*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(29) { content: url("https://i.ibb.co/MfX62fr/totomacau-5d.jpg") !important; }/*TOTOMACAU5D*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(30) { content: url("https://i.ibb.co/BfNn8Vx/morocco.jpg") !important; }/*MOROCCO*/
 .gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(31) { content: url("https://i.postimg.cc/nzMxdfKz/NORTH-KOREA.png") !important; }/*NORTHKOREA*/
-.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(32) { content: url("https://i.postimg.cc/zvsqb2gf/TEXAS-DAY.png") !important; }/*TEXASDAY*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(32) { content: url("https://i.ibb.co/r2LY6Vk/texas.jpg") !important; }/*TEXAS*/
 .gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(33) { content: url("https://i.postimg.cc/7YzH84FJ/TEXAS-EVE.png") !important; }/*TEXASEVE*/
 .gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(34) { content: url("https://i.postimg.cc/nVgFPrPt/TEXAS-MOR.png") !important; }/*TEXASMOR*/
 .gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(35) { content: url("https://i.postimg.cc/4y9ggvSR/TEXAS-NIGHT.png") !important; }/*TEXASNIGHT*/
