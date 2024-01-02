@@ -1,10 +1,5 @@
 <style>
 
-.col-md-9 {
-  margin-top: -37px;
-  left: 12px;
-}
-
 .gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(1) { content: url("https://i.postimg.cc/dth91Vvd/SIAM.jpg") !important;}/*SIAM*/
 .gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(2) { content: url("https://i.postimg.cc/pXrsFBQm/SYDNEY.jpg") !important;}/*SYDNEY*/
 .gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(3) { content: url("https://i.postimg.cc/Y0Wj5ZK4/BULLSEYE.jpg") !important;}/*BULLSEYE*/
