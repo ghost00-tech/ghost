@@ -1,5 +1,10 @@
 <style>
 
+    .col-md-9 .owl-wrapper-outer .owl-item {
+        float: left;
+        width: 155px !important;
+    }
+
 .gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(1) { content: url("https://i.ibb.co/YBpCWy6/sydney.gif") !important; }/*SYDNEY*/
 .gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(2) { content: url("https://i.ibb.co/BLjg8DX/bullseye.gif") !important; }/*BULLSEYE*/
 .gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(3) { content: url("https://i.ibb.co/Wpg4rXY/cambodia.gif") !important; }/*CAMBODIA*/
