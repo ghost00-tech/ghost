@@ -1,9 +1,9 @@
 <style>
 
-    .col-md-9 .owl-wrapper-outer .owl-item {
-        float: left;
-        width: 155px !important;
-    }
+    .col-md-9 {
+  margin-top: -37px;
+  left: 12px;
+}
 
 .gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(1) { content: url("https://i.ibb.co.com/KNsNTjW/bullseye.jpg") !important; }/*SYDNEY*/
 .gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(2) { content: url("https://i.ibb.co.com/KVdQbkn/california.jpg") !important; }/*BULLSEYE*/
@@ -65,5 +65,4 @@
 .gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(56) { content: url("https://i.ibb.co.com/CBjrSMY/roulette.jpg") !important; }/*PGSOFT*/
 .gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(57) { content: url("https://i.ibb.co.com/k26LNHR/slot.jpg") !important; }/*PRAGMATIC*/
 
-</style>
 </style>
